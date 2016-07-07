@@ -1,0 +1,14 @@
+.btn {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.buy-tix {
+  text-align: center;
+  margin: 0;
+}
+
+.panel {
+  border-radius: 0;
+}
