@@ -1,3 +1,7 @@
+.cf {
+  clear: both;
+}
+
 .btn {
   width: 100%;
   margin-top: 10px;
@@ -11,4 +15,40 @@
 
 .panel {
   border-radius: 0;
+}
+
+.movie-img {
+  width: 100%;
+  height: auto;
+}
+
+#trailer-btn {
+  width: auto;
+}
+
+
+.film-brief {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.film-link {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.prices li {
+  list-style-type: none;
+}
+
+.about-link {
+  text-decoration: none;
+}
+
+.theater-list li {
+  list-style-type: none;
+}
+
+.basic-links li {
+  list-style-type: none;
 }
